@@ -1,4 +1,4 @@
-import { applyOffsets, findNextPrayer, calcJafariNightTimes } from 'file:///home/ash/Documents/projects/SalaatprayertimesGnome/logic/prayerCompute.js';
+import { applyOffsets, findNextPrayer, calcJafariNightTimes } from '../logic/prayerCompute.js';
 
 let failures = 0;
 function check(name, cond) { if (cond) print('PASS: ' + name); else { print('FAIL: ' + name); failures++; } }

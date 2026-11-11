@@ -1,5 +1,5 @@
-import { calcOfflineTimes, applyOffset, getHijriDate } from 'file:///home/ash/Documents/projects/SalaatprayertimesGnome/logic/offlineCalc.js';
-import { autoMethodFromCountry } from 'file:///home/ash/Documents/projects/SalaatprayertimesGnome/logic/methods.js';
+import { calcOfflineTimes, applyOffset, getHijriDate } from '../logic/offlineCalc.js';
+import { autoMethodFromCountry } from '../logic/methods.js';
 
 let failures = 0;
 function check(name, cond) {
