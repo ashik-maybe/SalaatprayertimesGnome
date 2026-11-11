@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-  <schema id="org.gnome.shell.extensions.salatprayertimedev" path="/org/gnome/shell/extensions/salatprayertimedev/">
+  <schema id="org.gnome.shell.extensions.salatprayertime" path="/org/gnome/shell/extensions/salatprayertime/">
 
     <!-- Location -->
     <key name="city" type="s"><default>'Makkah'</default><summary>City name</summary></key>
